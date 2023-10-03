@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: azure;
+}
+
+.resume{
+    text-align: center;
+}
+
+.name{
+    color: #EBE76C;
+}
+
+.header{
+    color: #F0B86E
+}
+
+.para{
+    color: #ED7B7B;
+}
+
+.list{
+    color:#ED7B7B
+}
+
+.ed-one{
+    color: #ED7B7B;
+}
+
+.ed-two{
+    color: #ED7B7B;
+}
+
+.ed-three{
+    color: #ED7B7B;
+}
